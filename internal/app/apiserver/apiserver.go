@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/gorilla/mux"
-	"github.com/kotoninja/http-rest-api/internal/store"
+	"github.com/kotoninja/http-rest-api/internal/app/store"
 )
 
 type APIserver struct {

@@ -1,7 +1,7 @@
 package apiserver
 
 import (
-	"github.com/kotoninja/http-rest-api/internal/store"
+	"github.com/kotoninja/http-rest-api/internal/app/store"
 )
 
 type Config struct {
